@@ -1,0 +1,12 @@
+calculadora web 
+
+Creación de una calculadora que presente las caracteristicas principales de suma, resta, multiplicacion y division
+con capacidades personalizables. con diseño de una calculadora basica
+
+requisitos 
+1- contara con un cuadro en donde se podra ingresar el monto a calcular
+2- incluira botones numericos del 0 - 9
+3- se incluira los botones de suma, resta, multiplicacion y division al costado derecho
+4- se incluiran botones de borrado y limpieza
+5- se podra continuar con una operacion ya realizada 
+6- los comandos tendran facilidades para el usuario
