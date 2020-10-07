@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_facultativa1",
+  "version": "1.0.0",
+  "description": "Creaci�n de una calculadora que presente las caracteristicas principales de suma, resta, multiplicacion y division",
+  "main": "resource/js/app.js",
+  "repository": "https://github.com/Fernandox69x/Proyecto_Facultativa1.git",
+  "author": "fernandoflores5784@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server -d",
+    "dev": "webpack -d"
+    
+  },
+  "dependencies": {
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.5.0",
+    "mini-css-extract-plugin": "^0.11.3",
+    "style-loader": "^1.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
