@@ -1,3 +1,3 @@
-import {} from './funcionalidad'
+import {} from './funcinalidad'
 
 import "../css/style.css"
