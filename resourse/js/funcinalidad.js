@@ -23,7 +23,7 @@ function init(){
   var nueve = document.getElementById('nueve');
   var cero = document.getElementById('cero');
 
-
+}
 
 
 //Eventos de click
